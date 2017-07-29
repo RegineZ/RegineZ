@@ -1,0 +1,14 @@
+tuto JAV
+http://docs.oracle.com/javase/tutorial/index.html
+Comment utiliser les fonctions
+https://docs.oracle.com/javase/7/docs/api/
+Tutorial pour ceer JAVADOC
+http://www.objis.com/formation-java/tutoriel-java-creation-javadoc-eclipse.html#partie2
+mémento de la syntaxe de Java
+http://www.enseignement.polytechnique.fr/informatique/INF321/memento.html
+Memo : La syntaxe de Jérémy
+https://docs.google.com/document/d/1zGxFXYqIL_qOc8pfbDHkOpkC5zffdGuhpKDq96L49oQ/edit#heading=h.nywvyswxp9sg
+Acces GitHUB Eddie
+https://github.com/serviceshuios/formation-exercices
+Acces Slack Jérémie
+https://capgfi.slack.com/messages/C6EFB5CR3/
