@@ -37,6 +37,7 @@ public class Main {
 		facture.setTotal(1000f);
 		listeDeFactures.add(facture);
 
+		
 		Freelance freelance = new Freelance("abcd", listeDeFactures, "ZIEGLER", "Régine");
 		myEmployees.addEmployee(freelance);
 
